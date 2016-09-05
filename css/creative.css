@@ -1,4 +1,4 @@
-/*!
+  /*!
  * Start Bootstrap - Creative v3.3.7+1 (http://startbootstrap.com/template-overviews/creative)
  * Copyright 2013-2016 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
@@ -426,3 +426,14 @@ body {
     font-color: #F05F40;
 }
 
+#footer{
+  padding-top: 30px;
+  padding-bottom: 50px;
+  background-color: black;
+  height: 100px;
+  font-size: 20px;
+}
+
+#contact{
+  height: 500px;
+}
