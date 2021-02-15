@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : "Anirudh Prabakaran"
 description              : "Research Website and Blog."
-url                      : "//alexgkendall.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "//anirudhprabakaran.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Anirudh58/Anirudh58.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Anirudh Prabakaran"
   avatar           : "/assets/images/anip.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Science Engineer"
-  location         : "National Institute of Techonology - Tiruchirappalli"
+  bio              : "ML Engineer, Iron Mountain"
+  location         : "Bangalore"
   email            : "anirudhprabakaran@gmail.com"
   uri              :
   bitbucket        :

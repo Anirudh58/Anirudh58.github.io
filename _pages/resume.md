@@ -3,8 +3,8 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: Other Projects
-permalink: /projects/
+title: Resume
+permalink: /resume/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -13,3 +13,4 @@ header:
 excerpt: "<br><br><br>"
 ---
 
+<embed src="/assets/pdfs/resume.pdf" width="800px" height="1100px" />
