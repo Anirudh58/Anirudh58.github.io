@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : "Home"
 title_separator          : "-"
-name                     : "Alex Kendall"
+name                     : "Anirudh Prabakaran"
 description              : "Research Website and Blog."
 url                      : "//alexgkendall.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "alexgkendall/alexgkendall.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Anirudh58/Anirudh58.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter "alexgkendall"
+  username               : &twitter "anip58"
 facebook:
   username               :
   app_id                 :
@@ -67,7 +67,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/alexgkendall"
+    - "https://twitter.com/anip58"
 
 # Analytics
 analytics:
@@ -78,11 +78,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alex Kendall"
-  avatar           : "/assets/images/alex.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Computer Vision & Robotics Researcher"
-  location         : "University of Cambridge"
-  email            : "agk34@cam.ac.uk"
+  name             : "Anirudh Prabakaran"
+  avatar           : "/assets/images/anip.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Computer Science Engineer"
+  location         : "National Institute of Techonology - Tiruchirappalli"
+  email            : "anirudhprabakaran@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -90,13 +90,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "alexgkendall"
+  github           : "Anirudh58"
   google_plus      :
-  google_scholar   : "hE2mTp4AAAAJ"
+  google_scholar   : 
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "alexgkendall"
+  linkedin         : "anirudh-prabakaran"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
