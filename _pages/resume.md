@@ -13,4 +13,4 @@ header:
 excerpt: "<br><br><br>"
 ---
 
-<embed src="/assets/pdfs/resume.pdf" width="800px" height="1100px" />
+<embed src="/assets/pdfs/resume1.pdf" width="800px" height="1100px" hidden="true"/>
