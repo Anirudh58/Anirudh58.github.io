@@ -24,16 +24,16 @@ excerpt: "Some recent projects in chronological order"
 - <small> Hope to find inspiration/time to work on some major improvements (scaling to any user environment, reducing latency, maybe even building a simple mobile app?). You can check out the project [here](https://github.com/Anirudh58/subway_surfer) and maybe even issue PRs or send suggestions. </small> 
 
 
-> ### DETECTING ANOMALOUS CONTENT FROM SURVEILLANCE VIDEOS (2019)
+> ### ANOMALOUS CONTENT FROM SURVEILLANCE VIDEOS (2019)
 
 - <small> We used Facebook's [C3D](https://research.fb.com/blog/2014/12/c3d-generic-features-for-video-analysis/) to extract spatiotemporal features from videos taken from the [UCF-Crimes dataset](https://webpages.uncc.edu/cchen62/dataset.html) and fed them to a multi-input CNN. Modeling it as a multi-classification problem didn't give great results due to very limited training set, however, the model was able to sufficiently correlate highly anomalous segments of a video with high regression scores. </small> 
-<small> This [publication](https://ieeexplore.ieee.org/document/9092161) was accepted and presented at ICinPro-2019. This being my first research project, helped me learn a lot of cool stuff. I also realized the immense complexity/scope in the domain of video understanding and instilled in me a desire to learn more. </small> 
+- <small> This [publication](https://ieeexplore.ieee.org/document/9092161) was accepted and presented at ICinPro-2019. This being my first research project, helped me learn a lot of cool stuff. I also realized the immense complexity/scope in the domain of video understanding and instilled in me a desire to learn more. </small> 
 
 
 > ### REAL-TIME HOME AUDIO MONITORING SYSTEM (2019)
 
 - <small> Worked on this proposal as part of Samsung's home monitoring solutions. Aim was to detect some household emergency sounds through our home assistant (without compromising user privacy) and accordingly send real-time alerts to users.  </small>
-- <small> It was interesting to see how an audio problem was converted to a Computer Vision problem statement with the help of Mel Spectrograms. I used [yamnet](https://github.com/tensorflow/models/tree/master/research/audioset/yamnet) as the dataset and experimented with building networks from scratch. However, using a pretrained network, fine-tuned with our target sounds (baby-cry, dog-bark, cooker whistle etc.,) gave the best performance. I was also able to successfully port this as a real-time solution on our home assistant (writing tensorflow code in C++ was pretty cool) and demo it. </small> 
+- <small> It was interesting to see how an audio problem was converted to a Computer Vision problem statement with the help of Mel Spectrograms. I used [yamnet](https://github.com/tensorflow/models/tree/master/research/audioset/yamnet) as the dataset and experimented with building networks from scratch. However, using a pretrained network, fine-tuned with our target sounds (baby-cry, dog-bark, cooker whistle etc.,) gave the best performance. I was also able to successfully port this as a real-time solution on our home assistant and demo it. </small> 
 
 
 > ### PRODUCTIVITY CHATBOT (2019)
@@ -51,6 +51,6 @@ excerpt: "Some recent projects in chronological order"
 
 > ### KEYBOARD INSIGHTS - SUMMER INTERNSHIP (2017)
 
-- <small> During my summer internship at [Samsung](https://research.samsung.com/sri-b), I worked with the On-Device AI team, where I built a web-based prototype of a language model that could fine-tune autocorrections and next-word predictions based on local history. </small>
+- <small> Worked on this project during my summer internship at [Samsung](https://research.samsung.com/sri-b) with the On-Device AI team. Broad aim of this project was to capture important keyboard insights, without compromising user privacy (NER Masking etc.,). I also ended up building a web-based proposal of a language model to perform autocorrections and next-word predictions assisted by local history. </small>
 
 
