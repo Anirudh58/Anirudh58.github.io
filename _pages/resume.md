@@ -10,7 +10,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/nitt.jpg
   caption: ""
-excerpt: "<br><br><br>"
+excerpt: "<br>"
 ---
 
-<embed src="/assets/pdfs/resume1.pdf" width="800px" height="1100px" hidden="true"/>
+<embed src="/assets/pdfs/resume.pdf" width="800px" height="1100px" hidden="true"/>
