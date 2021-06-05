@@ -13,6 +13,12 @@ header:
 excerpt: "Some recent projects in chronological order"
 ---
 
+> ### BERKELEY DEEPDRIVE (2021)
+
+- <small> Worked on a simple, configurable [implementation](https://github.com/Anirudh58/berkeley_deepdrive_experimentation) to pre-train a network over FasterRCNN and similar models. </small>
+- <small> I used the [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) dataset for this task targetting specific labels of choice like cars, signs, pedestrians etc. It is configurable to scale for more labels with minor tweaks. </small>
+- <small> Found this dataset super interesting because of how comprehensive it is. Would definitely want to experiment more, especially on ideas related to autonomous driving in the future (lane segmentation, steering prediction, etc.). </small>
+
 > ### CRICBOARD (2021)
 
 - <small> Cricboard is a cricket statistics page, aimed to provide cool insights to users in a dynamic, interactive UI. Head over to the FAQ section at [cricboard](http://cricboard.in) to know more! </small>
