@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Anirudh Prabakaran"
   avatar           : "/assets/images/anip.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ML Engineer, Iron Mountain"
+  bio              : "Iron Mountain"
   location         : "Bangalore"
   email            : "anirudhprabakaran@gmail.com"
   uri              :

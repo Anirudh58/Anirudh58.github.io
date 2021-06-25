@@ -4,7 +4,7 @@ read_time: false
 comments: false
 share: false
 title: "Projects"
-permalink: /projects/
+permalink: /defghi/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -21,7 +21,8 @@ excerpt: "Some recent projects in chronological order"
 
 > ### CRICBOARD (2021)
 
-- <small> Cricboard is a cricket statistics page, aimed to provide cool insights to users in a dynamic, interactive UI. Head over to the FAQ section at [cricboard](http://cricboard.in) to know more! </small>
+- <small> Cricboard is a cricket statistics page, aimed to provide cool insights to users in a dynamic, interactive UI. One of the main motivations to build something like this is the potential usage in fantasy league contests. Head over to the FAQ section at [cricboard](http://cricboard.in) to know more! </small>
+- <small> Received over 60k page hits on the opening day of IPL 2021, and consistently had a daily average of 1k-2k page hits until covid decided to end the tournament.  </small>
 
 
 > ### SUBWAY-SURFER (2020)
