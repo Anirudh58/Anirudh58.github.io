@@ -4,7 +4,7 @@ read_time: false
 comments: false
 share: false
 title: "Projects"
-permalink: /defghi/
+permalink: /projects/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

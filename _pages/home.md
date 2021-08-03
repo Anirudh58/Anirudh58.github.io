@@ -15,14 +15,9 @@ excerpt: ""
 
 ## About
 
-<small> Hello there! I currently work with [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform). I previously worked with [Samsung](https://research.samsung.com/sri-b) in the IoT Products and Platforms division. I completed my undergraduate study in [Computer Science at NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/).  </small>
+<small> Hello there! I am an incoming MS in Computer Science student at Georgia Tech. I have previously worked with [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b) as a Machine Learning Engineer. I completed my undergraduate study in [Computer Science at NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/). Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences.  </small>
 
-<!-- <small> Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences. I love Mathematics and solving challenging problem statements or puzzles. I always hope and strive to write clean, well-documented code. Some of my recent technical interests include sports insights, document understanding with both textual and visual cues, learning with weak or minimum supervision for vision models, uncertainty modelling in AI. </small>
-
-<small> Work apart, I play/follow Cricket and Football with a lot of passion. I regularly practice yoga and truly believe being active and fit is essential for a well-functioning mind. </small>
-
-<small> Please feel free to drop in a message for anything. </small> -->
-
+<small> I love Mathematics and solving challenging problem statements or puzzles. I always hope and strive to write clean, well-documented code.  Work apart, I religiously play/follow Cricket and Football. I regularly try to practice yoga and truly believe being active and fit is essential for a well-functioning mind. Please feel free to drop in a message for anything.</small>
 
 <div id='featured'></div>
 
