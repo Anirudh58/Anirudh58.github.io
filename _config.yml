@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Anirudh Prabakaran"
   avatar           : "/assets/images/anip.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Iron Mountain"
-  location         : "Bangalore"
+  bio              : "MS in CS Student"
+  location         : "Atlanta, GA"
   email            : "anirudhprabakaran@gmail.com"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : *twitter
+  #twitter          : *twitter
   vine             :
   weibo            :
   xing             :
