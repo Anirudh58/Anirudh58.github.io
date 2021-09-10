@@ -13,6 +13,12 @@ header:
 excerpt: ""
 ---
 
+> ### EXPLORATORY VIDEO ANALYTICS (2021)
+
+- <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. I have taken up a special problems course in Fall 2021, to work on this project with [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) and his team. </small>
+- <small> This project is built with Python, asyncio, cmd (to mimic the SQL interface), Docker and PyTorch. See repo [here](https://github.com/georgia-tech-db/eva) to know more. </small>
+
+
 > ### PNEUMONIA DETECTION (2021)
 
 - <small> I have always been fascinated by the applications of AI in health. I envision a future where, basic health services powered by AI, are provided free of cost. Especially, in the remote areas where it's not easy for people to consult doctors even for simple health problems. </small>
@@ -20,16 +26,18 @@ excerpt: ""
 - <small> See repo [here](https://github.com/Anirudh58/pneumonia-detection) for sample evaluations. </small>
 
 
-> ### BERKELEY DEEPDRIVE (2021)
+> ### VIDEO QUERIES ON DRIVING DATASETS (2021)
 
 - <small> Worked on a simple, configurable [implementation](https://github.com/Anirudh58/berkeley_deepdrive_experimentation) to pre-train a network over FasterRCNN and similar models. </small>
 - <small> I used the [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) dataset for this task targetting specific labels of choice like cars, signs, pedestrians etc. It is configurable to scale for more labels with minor tweaks. </small>
 - <small> Found this dataset super interesting because of how comprehensive it is. Would definitely want to experiment more, especially on ideas related to autonomous driving in the future (lane segmentation, steering prediction, etc.). </small>
 
+
 > ### CRICBOARD (2021)
 
 - <small> Cricboard is a cricket statistics page, aimed to provide cool insights to users in a dynamic, interactive UI. One of the main motivations to build something like this is the potential usage in fantasy league contests. Head over to the FAQ section at [cricboard](http://cricboard.in) to know more! </small>
 - <small> Received over 30k page hits on the opening day of IPL 2021, and consistently had a daily average of 1k-2k page hits until covid decided to end the tournament.  </small>
+- <small> We have made the code for this website public now. Do check it out [here](https://github.com/Anirudh58/cricboard). If you have ideas for better features, visualization ideas etc. please do feel free to issue PRs. </small>
 
 
 > ### SUBWAY-SURFER (2020)
@@ -40,10 +48,9 @@ excerpt: ""
 
 > ### ANOMALOUS CONTENT FROM SURVEILLANCE VIDEOS (2019)
 
-
 - <small> One of the main driving goals behind this project is the high number of false positivies typically associated with naive monitoring systems. For eg. Surveillance cameras in smarthomes send alerts to the user every time it detects motion. We wanted to see if it's possible to reduce such high false alerts. </small>
 - <small> We used Facebook's [C3D](https://research.fb.com/blog/2014/12/c3d-generic-features-for-video-analysis/) to extract spatiotemporal features from videos taken from the [UCF-Crimes dataset](https://webpages.uncc.edu/cchen62/dataset.html) and fed them to a multi-input CNN. Modeling it as a multi-classification problem didn't give great results due to very limited training set, however, the model was able to sufficiently correlate highly anomalous segments of a video with high regression scores. </small> 
-- <small> This [publication](https://ieeexplore.ieee.org/document/9092161) was accepted and presented at ICinPro-2019. This being my first research project, helped me learn a lot of cool stuff. I also realized the immense complexity/scope in the domain of video understanding and instilled in me a desire to learn more. </small> 
+- <small> This [publication](https://ieeexplore.ieee.org/document/9092161) was accepted and presented at ICinPro-2019. This being my first research project, helped me learn a lot of interesting things. I also realized the immense complexity/scope in the domain of video understanding and instilled in me a desire to learn more. </small> 
 
 
 > ### REAL-TIME HOME AUDIO MONITORING SYSTEM (2019)

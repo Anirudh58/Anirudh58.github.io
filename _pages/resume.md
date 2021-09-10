@@ -3,7 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: Resume
+title: "<br><br> Resume"
 permalink: /resume/
 header:
   overlay_color: "#000"
