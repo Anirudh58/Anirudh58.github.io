@@ -15,7 +15,7 @@ excerpt: ""
 
 ## Home
 
-<small> Hey! I am currently pursuing my MS in Computer Science at [Georgia Tech](https://www.gatech.edu/), where I will be specializing in Computational Perception and Robotics. I am also a Graduate Teaching Assistant here. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I completed my Bachelors in [Computer Science at NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/). Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences.
+<small> Hello! I am a Computer Science graduate student at [Georgia Institute of Technology](https://www.gatech.edu/), where I have taken up the Computational Perception and Robotics specialization. Coursework apart, I am currently (Fall 2021) working with [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) and his team on a project titled [Exploratory Video Analytics](https://github.com/georgia-tech-db/eva). I am also a Graduate Teaching Assistant here for CS4400 - Intro to Database Systems. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences.
 
 ## Interests
 
@@ -23,9 +23,9 @@ excerpt: ""
 
 <small> Work apart, I passionately follow and play Football/Cricket. I try to practice yoga regularly and truly believe being active and fit is essential for a well-functioning mind. </small>
 
-## Get in touch
+## Get in Touch
 
-<small> If you're taking up CS4400 - Intro to Database Systems, and you wish to contact me for queries (pun intended), you can find details of my office hours on Piazza. For everything else, please feel free to shoot an email! </small>
+<small> If you're taking up CS4400, and you wish to contact me for queries (pun intended! :P), you can find details of my office hours on Piazza. For everything else, please feel free to shoot an email! </small>
 
 
 <div id='featured'></div>
