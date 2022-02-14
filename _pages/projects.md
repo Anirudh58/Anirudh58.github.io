@@ -15,8 +15,8 @@ excerpt: ""
 
 > ### EXPLORATORY VIDEO ANALYTICS (2021)
 
-- <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. I have taken up a special problems course in Fall 2021, to work on this project with [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) and his team. </small>
-- <small> This project is built with Python, asyncio, cmd (to mimic the SQL interface), Docker and PyTorch. See repo [here](https://github.com/georgia-tech-db/eva) to know more. </small>
+- <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. I am working on this project with [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) and his team. </small>
+- <small> See repo [here](https://github.com/georgia-tech-db/eva) to know more. </small>
 
 
 > ### PNEUMONIA DETECTION (2021)

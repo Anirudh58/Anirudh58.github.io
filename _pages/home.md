@@ -3,7 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: "<br><br> Home"
+title: "<br><br><br><br><br><br><br><br><br><br><br>"
 permalink: /
 header:
   overlay_color: "#000"
@@ -13,9 +13,9 @@ excerpt: ""
 
 ---
 
-## Home
+## About
 
-<small> Hello! I am a Computer Science graduate student at [Georgia Institute of Technology](https://www.gatech.edu/), where I have taken up the Computational Perception and Robotics specialization. Coursework apart, I am currently (Fall 2021) working with [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) and his team on a project titled [Exploratory Video Analytics](https://github.com/georgia-tech-db/eva). I am also a Graduate Teaching Assistant here for CS4400 - Intro to Database Systems. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences.
+<small> Hello! I am a CS Graduate Student, specializing in Machine Learning at [Georgia Institute of Technology](https://www.gatech.edu/). Coursework apart, I am working on a project [Exploratory Video Analytics](https://evagatech.readthedocs.io/en/latest/), advised by [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/), where we are trying to build a Visual Database Management System. I am also a Graduate Teaching Assistant here for CS4400 - Intro to Database Systems. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [projects](/projects) to know more about my work experiences.
 
 ## Interests
 
