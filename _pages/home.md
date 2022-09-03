@@ -21,7 +21,7 @@ excerpt: ""
 
 ## Interests
 
-<small> I love Mathematics and solving challenging problem statements or puzzles. I always hope and strive to write clean, well-documented code. During my 3 years of industry experience, I have worked with a good mix of Machine Learning, Systems, Cloud and IoT. In the next few years of my career, I want to explore and learn more along similar domains, building solutions that bridge research and industry.  </small>
+<small> I love Mathematics and solving challenging problem statements or puzzles. I always hope and strive to write clean, well-documented code. In the past 4 years of my academic and industry experience, I have worked with a good mix of Machine Learning, Systems and Cloud. In the next few years of my career, I want to explore and learn more along similar domains, building solutions that bridge research and industry.  </small>
 
 <small> Work apart, I passionately follow and play Football/Cricket. I try to practice yoga regularly and truly believe being active and fit is essential for a well-functioning mind. </small>
 
