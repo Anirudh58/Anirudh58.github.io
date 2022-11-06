@@ -13,13 +13,6 @@ header:
 excerpt: ""
 ---
 
-> ### EMOJI CATEGORY AND POSITION PREDICTION IN TEXT PASSAGES (2022)
-
-- <small> Curated a new dataset by scraping and cleaning emoji information along with character and word level index for about 350K tweets. </small>
-- <small> Implemented a Bi-LSTM network with pre-trained GloVe embeddings for predicting the type and position of an emoji given a text.
-Achieved 62% accuracy in emoji prediction (modeled as a top-10 clustering problem) and a 78% accuracy in position prediction. </small>
-- <small> This project was done as part of CS 7650 (Natural Language). Please find the research report [here](https://github.com/Anirudh58/emoji-prediction/blob/main/report.pdf) </small>
-
 
 > ### JINGLECRAFT - MACHINE LEARNING IN MUSIC (2022)
 
