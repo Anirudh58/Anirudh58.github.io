@@ -15,13 +15,14 @@ excerpt: ""
 
 > ### EXPLORATORY VIDEO ANALYTICS (2022)
 
-- <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. I have been working on this project with the Georgia Tech Database Research group, advised by [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/) since Fall 2021. </small>
-- <small> See repo [here](https://github.com/georgia-tech-db/eva) to know more. </small>
+- <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. The key idea behind EVA is that simple to moderate analysis on videos should be as easy as writing SQL queries. </small>
+- <small> See [here](https://evadb.readthedocs.io/en/latest/source/overview/video.html) to know more. </small>
 
 > ### USING BILINEAR CNNs FOR VEHICLE MAKE AND MODEL PREDICTION (2022)
 
-- <small> In this project, we have taken up a fine-grained classification of predicting a vehicle's make and model given an input image of a vehicle using various neural networks. We used [VMMRdb] as the main dataset source.</small>
-- <small> This project was done as part of CS 7643 (Deep Learning). Please find the code [here](https://github.com/Anirudh58/vehicle-predictor) and the research report [here] </small>
+- <small> In this project, we have taken up a fine-grained classification of predicting a vehicle's make and model given an input image of a vehicle using various neural networks. We used [VMMRdb](https://github.com/faezetta/VMMRdb) as the main dataset source.</small>
+- <small> We compared the performance of 3 methods. Transfer learning with various backbone models (ResNet18, ResNet50, MobileNetv2), Bilinear CNNs and Vision Transformers. As the number of labels increased, we found that Bilinear CNNs outperformed the other networks in terms of accuracy, as it was able to learn the fine details better. </small>
+- <small> This project was done as part of CS 7643 (Deep Learning). Please find the code [here](https://github.com/Anirudh58/vehicle-predictor) and the research report [here](https://github.com/Anirudh58/vehicle-predictor/blob/main/Vehicle_Predictor_Final_Report.pdf) </small>
 
 > ### EMOJI CATEGORY AND POSITION PREDICTION IN TEXT PASSAGES (2022)
 
