@@ -16,7 +16,7 @@ excerpt: ""
 > ### EXPLORATORY VIDEO ANALYTICS (2022)
 
 - <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. The key idea behind EVA is that simple to moderate analysis on videos should be as easy as writing SQL queries. </small>
-- <small> See [here](https://evadb.readthedocs.io/en/latest/source/overview/video.html) to know more. </small>
+- <small> See [here](https://evadb.readthedocs.io/en/stable/) to know more. </small>
 
 > ### USING BILINEAR CNNs FOR VEHICLE MAKE AND MODEL PREDICTION (2022)
 
