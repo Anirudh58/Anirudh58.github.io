@@ -84,8 +84,12 @@ were based on both spectral features (mel-spectrogram) as well as metadata featu
 > ### CRICBOARD (2021)
 
 - <small> Cricboard is a cricket statistics page, aimed to provide cool insights to users in a dynamic, interactive UI. One of the main motivations to build something like this is the potential usage in fantasy league contests. Head over to the FAQ section at [cricboard](http://cricboard.in) to know more! </small>
-- <small> Received over 30k page hits on the opening day of IPL 2021, and consistently had a daily average of 1k-2k page hits until covid decided to end the tournament.  </small>
-- <small> We have made the code for this website public now. Do check it out [here](https://github.com/Anirudh58/cricboard). If you have ideas for better features, visualization ideas etc. please do feel free to issue PRs. </small>
+- <small> Below is a small demo of the webapp in action. </small>
+
+[ ![](/assets/images/cricboard_demo.gif) ](/assets/images/cricboard_demo.gif)
+
+- <small> We received over 30k page hits on the opening day of IPL 2021, and consistently had a daily average of 1k-2k page hits until covid decided to end the tournament. </small>
+- <small> We have made the code for this website public now. Do check it out [here](https://github.com/Anirudh58/cricboard). If you have ideas for better features, visualization ideas etc. please do feel free to issue PRs. We plan to resume work on this very soon! </small>
 
 
 > ### SUBWAY-SURFER (2020)
