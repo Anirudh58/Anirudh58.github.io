@@ -24,10 +24,9 @@ excerpt: ""
   FROM MyVideo JOIN LATERAL UNNEST(FaceDetector(data)) AS Face(bbox, conf);
 ```
 
-<!-- <img src="/assets/images/gangubai-output.webp" alt="query_output" height="400" width="500" style="display: block; margin: auto;"/> -->
 [ ![](/assets/images/gangubai-output.gif) ](/assets/images/gangubai-output.gif)
 
-- <small> This is a running project as part of the [Georgia Tech Database Research Group](https://db.cc.gatech.edu/). I worked with the team on this for 3 semesters as part of my Masters project, with primary contributions from the ML side. See [project docs](https://evadb.readthedocs.io/en/stable/) to know more. </small>
+- <small> This is a running project as part of the [Georgia Tech Database Research Group](https://db.cc.gatech.edu/). I worked with the team on this for 3 semesters as part of my Masters project, with contributions primarily from the ML side. See [project docs](https://evadb.readthedocs.io/en/stable/) to know more. </small>
 
 
 > ### USING BILINEAR CNNs FOR VEHICLE MAKE AND MODEL PREDICTION (2022)
@@ -35,8 +34,7 @@ excerpt: ""
 - <small> In this project, we have taken up a fine-grained classification of predicting a vehicle's make and model given an input image of a vehicle using various neural networks. We used [VMMRdb](https://github.com/faezetta/VMMRdb) as the main dataset source.</small>
 - <small> We compared the performance of 3 methods. Transfer learning with various backbone models (ResNet18, ResNet50, MobileNetv2), Bilinear CNNs and Vision Transformers. As the number of labels increased, we found that Bilinear CNNs outperformed the other networks in terms of accuracy, as it was able to learn the fine details better. This poster summarizes our findings. 
 
-<!-- <img src="/assets/images/vp_poster.jpg" alt="vp_poster" height="500" width="700" style="display: block; margin: auto;"/> -->
-<!-- <img src="/assets/images/vp_test_images.png" alt="vp_poster" height="300" width="400" style="display: block; margin: auto;"/> -->
+<!-- [ ![](/assets/images/vp_test_images.png) ](/assets/images/vp_test_images.png) -->
 [ ![](/assets/images/vp_poster.jpg) ](/assets/images/vp_poster.jpg)
 
 - <small> This project was done as part of CS 7643 (Deep Learning). Please find the code [here](https://github.com/Anirudh58/vehicle-predictor) and the research report [here](https://github.com/Anirudh58/vehicle-predictor/blob/main/Vehicle_Predictor_Final_Report.pdf) </small>
@@ -44,10 +42,11 @@ excerpt: ""
 > ### EMOJI CATEGORY AND POSITION PREDICTION IN TEXT PASSAGES (2022)
 
 - <small> Curated a new dataset by scraping and cleaning emoji information along with character and word level index for about 350K tweets. </small>
-- <small> Implemented a Bi-LSTM network with pre-trained GloVe embeddings for predicting the type and position of an emoji given a text.
-Achieved 62% accuracy in emoji prediction (modeled as a top-10 clustering problem) and a 78% accuracy in position prediction. The table below show some examples of the predictions. 
+- <small> Implemented a Bi-LSTM network with pre-trained GloVe embeddings for predicting the type and position of an emoji given a text. Since multiple emojis often have similar meanings, we used emoji2vec to cluster emojis (as shown in the image below on the left) and used the clusters as target labels. We achieved 62% accuracy in emoji prediction and a 78% accuracy in position prediction. The table below on the right shows some sample predictions. </small>
 
-[ ![](/assets/images/ep_preds.jpg) ](/assets/images/ep_preds.jpg)
+:----------------------------------:|:----------------------------------:
+[ ![](/assets/images/ep_cluster.png) ](/assets/images/ep_cluster.png) |  [ ![](/assets/images/ep_preds.jpg) ](/assets/images/ep_preds.jpg)
+
 
 - <small> This project was done as part of CS 7650 (Natural Language). Please find the repo [here](https://github.com/Anirudh58/emoji-prediction) and the research report [here](https://github.com/Anirudh58/emoji-prediction/blob/main/report.pdf) </small>
 
@@ -56,20 +55,33 @@ Achieved 62% accuracy in emoji prediction (modeled as a top-10 clustering proble
 
 - <small> This project is an in-depth analysis of various ML algorithms and Data visualizations for Genre Classification and Mood Prediction. </small>
 - <small> We used a combination of the Million Song Dataset, GTZAN and Spotify API as our dataset source. Our models and visualizations
-were based on both spectral features (mel-spectrogram) as well as metadata features. </small>
-- <small> This project was done as part of CS 7641 (Machine Learning). The comprehensive report can be found [here](https://vaibhavb007.github.io/jinglecraft/) </small>
+were based on both spectral features (mel-spectrogram, as shown below) as well as metadata features. </small>
+
+[ ![](/assets/images/jc_3.png) ](/assets/images/jc_3.png)
+
+- <small> We also used a combination of various ML algorithms to predict the mood associated with a song. Images below show some cool insights. </small>
+
+:----------------------------------:|:----------------------------------:
+[ ![](/assets/images/jc_1.png) ](/assets/images/jc_1.png) |  [ ![](/assets/images/jc_2.png) ](/assets/images/jc_2.png)
+
+
+- <small> This project was done as part of CS 7641 (Machine Learning). The complete report can be found [here](https://vaibhavb007.github.io/jinglecraft/) </small>
 
 
 > ### PNEUMONIA DETECTION (2021)
 
 - <small> I have always been fascinated by the applications of AI in health. I envision a future where, basic health services powered by AI, are provided free of cost. Especially, in the remote areas where it's not easy for people to consult doctors even for simple health problems. </small>
-- <small> Here, I used the [Kaggle CoronaHack -Chest X-Ray-Dataset](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset) to train a simple network to differentiate a healthy chest and a pneumonic chest. </small>
-- <small> See repo [here](https://github.com/Anirudh58/pneumonia-detection) for sample evaluations. </small>
+- <small> Here, I used the [Kaggle CoronaHack -Chest X-Ray-Dataset](https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset) to train a simple network to differentiate a healthy chest and a pneumonic chest. The image below show samples from the test dataset and predictions. </small>
+
+:----------------------------------:|:----------------------------------:
+[ ![](/assets/images/pd_1.png) ](/assets/images/pd_1.png) |  [ ![](/assets/images/pd_2.png) ](/assets/images/pd_2.png)
+
+- <small> See repo [here](https://github.com/Anirudh58/pneumonia-detection) for full code and other details. </small>
 
 
 > ### EXPERIMENTATION WITH VIDEO QUERIES ON DRIVING DATASETS (2021)
 
-- <small> Worked on a simple, configurable [implementation](https://github.com/Anirudh58/berkeley_deepdrive_experimentation) to pre-train a network over FasterRCNN and similar models. </small>
+- <small> Worked on a simple, configurable implementation to pre-train a network over FasterRCNN and similar models. </small>
 - <small> I used the [Berkeley Deep Drive](https://bdd-data.berkeley.edu/) dataset for this task targetting specific labels of choice like cars, signs, pedestrians etc. It is configurable to scale for more labels with minor tweaks. Below is a demo for a sample query. </small>
 
 ```
@@ -78,7 +90,7 @@ were based on both spectral features (mel-spectrogram) as well as metadata featu
 
 [ ![](/assets/images/bdd_demo.gif) ](/assets/images/bdd_demo.gif)
 
-- <small> Found this dataset super interesting because of how comprehensive it is. Would definitely want to experiment more, especially on ideas related to autonomous driving in the future (lane segmentation, steering prediction, etc.). </small>
+- <small> Found this dataset super interesting because of how comprehensive it is. Would definitely want to experiment more, especially on ideas related to autonomous driving in the future (lane segmentation, steering prediction, etc.). Find the [code](https://github.com/Anirudh58/berkeley_deepdrive_experimentation) here. </small>
 
 
 > ### CRICBOARD (2021)
