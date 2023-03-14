@@ -13,6 +13,18 @@ header:
 excerpt: ""
 ---
 
+> ### INTERACTIVE TWITTER BOT DETECTION THROUGH NETWORK GRAPH ANALYSIS (2023)
+
+- <small> In this work, we are implementing an interactive method for detecting Twitter bots that combines network graph analysis with expert human input. Our interactive approach uses network graph analysis to identify clusters of accounts with similar behavior, allowing an expert bot moderator to visualize and investigate individual account characteristics. </small>
+- <small> This is a work in progress. Check out the [proposal](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/proposal.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app. </small>
+
+
+> ### GLUCOWISE - A DIABETES PREDICTION WEBAPP (2023)
+
+- <small> In this work, we are building a webapp that predicts the risk of diabetes in a person based on their health parameters. We also plan to build interactive visualizations to help users understand the factors that contribute to diabetes. </small>
+- <small> This is a work in progress. Check out the [code](https://github.com/Anirudh58/diabetes-prediction-webapp) </small>
+
+
 > ### EXPLORATORY VIDEO ANALYTICS (2022)
 
 - <small> EVA is a visual data management system (think MySQL for videos). It supports a declarative language similar to SQL and a wide range of commonly used computer vision models. The key idea behind EVA is that simple to moderate analysis on videos should be as easy as writing SQL queries. </small>
