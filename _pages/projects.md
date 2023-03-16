@@ -13,6 +13,27 @@ header:
 excerpt: ""
 ---
 
+
+<!-- 
+Collapsible sections
+<details>
+<summary>
+MENTAL HEALTH MONITORING (2023)
+</summary>
+<p markdown="1">
+<ul>
+  <li> This is a project done as part of [Prof. Bruce Walker's lab at Georgia Tech](http://sonify.psych.gatech.edu/~walkerb/). We are building an app that can help therapists better understand their patients' mental health by monitoring their daily activities and mood, through daily checkins. We are closely collaborating with [Hillside Atlanta](https://hside.org/) to identify the needs and build a solution that is useful to them. </li>
+  <li> My primary contributions for this app are from the ML side, analyzing descriptive and inferential insights from voice recordings and text data. </li> 
+</ul>
+</p>
+</details> -->
+
+> ### MENTAL HEALTH MONITORING APP (2023)
+
+- <small> This is a project done as part of [Prof. Bruce Walker's lab at Georgia Tech](http://sonify.psych.gatech.edu/~walkerb/). We are building an app that can help therapists better understand their patients' mental health by monitoring their daily checkins, through daily checkins. We are closely collaborating with [Hillside Atlanta](https://hside.org/) to identify the needs and build a solution that is useful to them.  </small>
+- <small> My primary contributions for this app are from the ML side, analyzing descriptive and inferential insights from voice recordings and text data.</small>
+
+
 > ### INTERACTIVE TWITTER BOT DETECTION THROUGH NETWORK GRAPH ANALYSIS (2023)
 
 - <small> In this work, we are implementing an interactive method for detecting Twitter bots that combines network graph analysis with expert human input. Our interactive approach uses network graph analysis to identify clusters of accounts with similar behavior, allowing an expert bot moderator to visualize and investigate individual account characteristics. </small>
