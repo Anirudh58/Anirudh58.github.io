@@ -36,8 +36,13 @@ MENTAL HEALTH MONITORING (2023)
 
 > ### INTERACTIVE TWITTER BOT DETECTION THROUGH NETWORK GRAPH ANALYSIS (2023)
 
-- <small> In this work, we are implementing an interactive method for detecting Twitter bots that combines network graph analysis with expert human input. Our interactive approach uses network graph analysis to identify clusters of accounts with similar behavior, allowing an expert bot moderator to visualize and investigate individual account characteristics. </small>
-- <small> This is a work in progress. Check out the [proposal](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/proposal.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app. </small>
+- <small> In this work, we are implementing an interactive method for detecting Twitter bots that combines network graph analysis with expert human input. We use the [Twibot-20](https://github.com/BunsenFeng/TwiBot-20) and [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) datasets to train a graph embedding model and then perform hierarchical clustering on the graph embeddings to identify clusters of accounts with similar behavior. The user can then select a cluster of accounts and the system will display the accounts in the cluster along with their account characteristics. The user can then select individual accounts to view the profile and make a decision on whether the account is a bot or not. This information gets fed back to the system to improve the accuracy of the bot detection system. </small>
+
+- <small> Here is a screenshot of the interactive bot detection system in action.  </small>
+
+[ ![](/assets/images/tbd.png) ](/assets/images/tbd.png)
+
+- <small> This is a work in progress. Check out the [proposal](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/proposal.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app and show that our system is more accurate and faster than existing bot detection systems. </small>
 
 
 > ### GLUCOWISE - A DIABETES PREDICTION WEBAPP (2023)
