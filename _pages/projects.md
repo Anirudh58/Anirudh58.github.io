@@ -36,13 +36,13 @@ MENTAL HEALTH MONITORING (2023)
 
 > ### INTERACTIVE TWITTER BOT DETECTION THROUGH NETWORK GRAPH ANALYSIS (2023)
 
-- <small> In this work, we are implementing an interactive method for detecting Twitter bots that combines network graph analysis with expert human input. We use the [Twibot-20](https://github.com/BunsenFeng/TwiBot-20) and [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) datasets to train a graph embedding model and then perform hierarchical clustering on the graph embeddings to identify clusters of accounts with similar behavior. The user can then select a cluster of accounts and the system will display the accounts in the cluster along with their account characteristics. The user can then select individual accounts to view the profile and make a decision on whether the account is a bot or not. This information gets fed back to the system to improve the accuracy of the bot detection system. </small>
+- <small> In this study, we have developed an interactive approach to identify and annotate Twitter bots, which integrates natural language processing (NLP) models, network graph analysis, and expert human judgment. We employ the [Twibot-20](https://github.com/BunsenFeng/TwiBot-20) and [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) datasets to train a graph embedding model, subsequently executing hierarchical clustering on the resulting graph embeddings to discern clusters of accounts exhibiting similar behavior. Simultaneously, an NLP model generates bot likelihood scores for each account based on their tweet content. </small>
 
-- <small> Here is a screenshot of the interactive bot detection system in action.  </small>
+- <small> The following illustrates our interactive bot detection system at work. Initially, the system retrieves unlabeled clusters from an SQLite database. Users can choose a cluster, upon which the system presents the accounts within the chosen cluster and their respective characteristics via a t-SNE visualization. Users can then examine individual accounts to review profiles, additional information, and our pre-calculated NLP-based bot likelihood scores. This enables users to make well-informed decisions regarding the account's bot status, with the feedback subsequently enhancing the bot detection system's precision. </small>
 
 [ ![](/assets/images/tbd.png) ](/assets/images/tbd.png)
 
-- <small> This is a work in progress. Check out the [proposal](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/proposal.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app and show that our system is more accurate and faster than existing bot detection systems. </small>
+- <small> Check out the [proposal](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/proposal.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app and show that our system is more accurate and faster than existing bot detection systems. </small>
 
 
 > ### GLUCOWISE - A DIABETES PREDICTION WEBAPP (2023)
