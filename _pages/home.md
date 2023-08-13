@@ -3,7 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: "<br><br><br><br><br><br><br>Hi! "
+title: "<br><br><br><br><br>Hi! "
 permalink: /
 header:
   overlay_color: "#000"
@@ -15,14 +15,12 @@ excerpt: ""
 
 ## About
 
-<small> Currently contributing to Athelas, my work intersects the domains of software and healthcare, building smarter, efficient tools to help modern healthcare organizations, ultimately enriching patient care. </small>
+<small> Currently at [Athelas](https://www.athelas.com/), my work intersects the domains of software and healthcare, building smarter, efficient tools to help modern healthcare organizations, ultimately enriching patient care. </small>
 
-<small> I am a CS Graduate Student, specializing in Machine Learning at [Georgia Institute of Technology](https://www.gatech.edu/). I am also a Graduate Teaching Assistant here for Machine Learning (CS 7641). I have coupled my Masters program with a research project [Exploratory Video Analytics](https://evadb.readthedocs.io/en/stable/), advised by [Prof. Joy Arulraj](https://www.cc.gatech.edu/~jarulraj/), where we built a Visual Database Management System that enables easy and efficient querying over videos. </small>
-
-<small> With over 4 years of experience in ML Engineering roles at [Meta](https://meta.com), [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform), and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b), I have gained strong knowledge in ML, Cloud, and Systems work. Proficient in Python with over 5 years of coding experience, I prioritize implementing best design practices while developing systems. I have worked across various domains in both industry and academia, including NLP, CV, and Recommendation systems. During these projects, I had the opportunity to design and develop end-to-end ML pipelines, from prototyping to deployment. In the upcoming years, I wish to collaborate with dynamic, fast-paced teams with good product ownership, working on high-impact solutions that bridge the gap between research and industry. 
+<small> I earned my MS in Computer Science, with a specialization in ML, from [Georgia Tech](https://www.gatech.edu/) in 2023, where I also held teaching positions for the ML and DBMS courses. With over 4 years of experience in ML Engineering roles at [Meta](https://meta.com), [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform), and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b), I have built strong foundations in ML, Cloud, and Systems work. Before that, I graduated from [NIT-Trichy](https://www.nitt.edu/) in 2018, where I received my B.Tech. in Computer Science and Engineering.
 </small>
 
-<small> Please head over to my [resume](/resume) or [work](/work) to know more about my experiences. </small>
+<small> Please head over to my [resume](/resume) to know more about my experiences, and feel free to ping me directly to get in touch! </small>
 
 <!-- <small> This summer I interned at [Meta](https://meta.com) in the Creation ML team, where I had the opportunity to work end-to-end on ML pipelines, building and training large scale models for Music Recommendation used across Facebook for Stories and Reels. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [work](/work) to know more about my experiences. </small> -->
 <!-- 
@@ -37,3 +35,9 @@ excerpt: ""
 
 
 ---
+
+<!-- Currently, I'm working with Athelas, where I combine software and healthcare to create smarter, more efficient tools that enhance patient care.
+
+I earned my MS in Computer Science from Georgia Tech in 2023, with a focus on Machine Learning (ML). During that time, I also taught ML and DBMS courses. With over 4 years of experience in ML Engineering roles at companies like Meta, Iron Mountain Insight, and Samsung Research Institute Bangalore, I've built a strong foundation in ML, Cloud, and Systems work. My educational journey began with a B.Tech. in Computer Science and Engineering from NIT-Trichy in 2018.
+
+Want to know more about me? Check out my resume or work, and don't hesitate to reach out directly if you'd like to chat! -->

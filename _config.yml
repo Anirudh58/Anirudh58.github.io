@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Anirudh Prabakaran"
   avatar           : "/assets/images/anip.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "MS CS Student"
-  location         : "Atlanta, GA"
+  bio              : "Software Engineer"
+  location         : "Mountain View, CA"
   email            : "anirudhprabakaran7@gmail.com"
   uri              :
   bitbucket        :
