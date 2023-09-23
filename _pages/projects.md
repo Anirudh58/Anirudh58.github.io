@@ -42,13 +42,13 @@ MENTAL HEALTH MONITORING (2023)
 
 [ ![](/assets/images/tbd.png) ](/assets/images/tbd.png)
 
-- <small> Check out the [proposal](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/proposal.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app and show that our system is more accurate and faster than existing bot detection systems. </small>
+- <small> Check out the [report](https://github.com/womackj1/twitter-bot-detection/blob/main/docs/report.pdf) for more information. Our end goal is to deploy this interactive bot detection system on a web app and show that our system is more accurate and faster than existing bot detection systems. </small>
 
 
 > ### GLUCOWISE - A DIABETES PREDICTION WEBAPP (2023)
 
 - <small> In this work, we are building a webapp that predicts the risk of diabetes in a person based on their health parameters. We also plan to build interactive visualizations to help users understand the factors that contribute to diabetes. </small>
-- <small> This is a work in progress. Check out the [code](https://github.com/Anirudh58/diabetes-prediction-webapp) </small>
+- <small> This is a work in progress. Check out the [repo](https://github.com/Anirudh58/diabetes-prediction-webapp) </small>
 
 
 > ### EXPLORATORY VIDEO ANALYTICS (2022)
