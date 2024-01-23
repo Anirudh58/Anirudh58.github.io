@@ -15,12 +15,9 @@ excerpt: ""
 
 ## About
 
-<small> Currently at [Athelas](https://www.athelas.com/), my work intersects the domains of software and healthcare, building smarter, efficient tools to help modern healthcare organizations, ultimately enriching patient care. </small>
-
-<small> I earned my MS in Computer Science, with a specialization in ML, from [Georgia Tech](https://www.gatech.edu/) in 2023, where I also held teaching positions for the ML and DBMS courses. With over 4 years of experience in ML Engineering roles at [Meta](https://meta.com), [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform), and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b), I have built strong foundations in ML, Cloud, and Systems work. Before that, I graduated from [NIT-Trichy](https://www.nitt.edu/) in 2018, where I received my B.Tech. in Computer Science and Engineering.
+<small> I am currently a software engineer at Instagram, building and scaling product experiences around IG stories. I earned my MS in Computer Science, with a specialization in ML, from [Georgia Tech](https://www.gatech.edu/) in 2023, where I also held teaching assistant positions for the ML and DBMS courses. With over 4 years of experience in engineering roles, I have built strong foundations in ML, Cloud, and Systems work. Before that, I graduated from [NIT-Trichy](https://www.nitt.edu/) in 2018, where I did my B.Tech. in Computer Science. Please head over to my [resume](/resume) to know more about my experiences, and feel free to ping me directly through email/linkedin to get in touch!
 </small>
 
-<small> Please head over to my [resume](/resume) to know more about my experiences, and feel free to ping me directly to get in touch! </small>
 
 <!-- <small> This summer I interned at [Meta](https://meta.com) in the Creation ML team, where I had the opportunity to work end-to-end on ML pipelines, building and training large scale models for Music Recommendation used across Facebook for Stories and Reels. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [work](/work) to know more about my experiences. </small> -->
 <!-- 

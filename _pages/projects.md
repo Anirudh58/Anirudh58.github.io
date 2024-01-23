@@ -3,7 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: "<br><br><br>  Recent Work"
+title: "<br><br><br> Work"
 permalink: /work/
 header:
   overlay_color: "#000"
@@ -28,10 +28,10 @@ MENTAL HEALTH MONITORING (2023)
 </p>
 </details> -->
 
-> ### MENTAL HEALTH MONITORING APP (2023)
+<!-- > ### MENTAL HEALTH MONITORING APP (2023)
 
 - <small> This is a project done as part of [Prof. Bruce Walker's lab at Georgia Tech](http://sonify.psych.gatech.edu/~walkerb/). We are building an app that can help therapists better understand their patients' mental health by monitoring their daily checkins, through daily checkins. We are closely collaborating with [Hillside Atlanta](https://hside.org/) to identify the needs and build a solution that is useful to them.  </small>
-- <small> My primary contributions for this app are from the ML side, analyzing descriptive and inferential insights from voice recordings and text data.</small>
+- <small> My primary contributions for this app are from the ML side, analyzing descriptive and inferential insights from voice recordings and text data.</small> -->
 
 
 > ### INTERACTIVE TWITTER BOT DETECTION THROUGH NETWORK GRAPH ANALYSIS (2023)
@@ -47,8 +47,11 @@ MENTAL HEALTH MONITORING (2023)
 
 > ### GLUCOWISE - A DIABETES PREDICTION WEBAPP (2023)
 
-- <small> In this work, we are building a webapp that predicts the risk of diabetes in a person based on their health parameters. We also plan to build interactive visualizations to help users understand the factors that contribute to diabetes. </small>
-- <small> This is a work in progress. Check out the [repo](https://github.com/Anirudh58/diabetes-prediction-webapp) </small>
+- <small> In this work, we built a webapp that predicts the risk of diabetes in a person based on their health parameters. We also built interactive visualizations to help users understand the factors that contribute to diabetes. </small>
+
+[ ![](/assets/images/glucowise.png) ](/assets/images/glucowise.png)
+
+- <small> Check out the [repo](https://github.com/Anirudh58/diabetes-prediction-webapp) for more details </small>
 
 
 > ### EXPLORATORY VIDEO ANALYTICS (2022)
@@ -105,6 +108,12 @@ were based on both spectral features (mel-spectrogram, as shown below) as well a
 
 - <small> This project was done as part of CS 7641 (Machine Learning). The complete report can be found [here](https://vaibhavb007.github.io/jinglecraft/) </small>
 
+> ### SPLITTING AND CLASSIFICATION OF LOAN DOCUMENTS (2021)
+
+- <small> Developed and patented a human-in-loop, event-driven pipeline for Document Understanding tasks on GCP, leading to significant savings and broad application across various verticals at Iron Mountain Insight. </small>
+
+- <small> Link to the patent [here](https://patents.google.com/patent/US20210085278A1/en). </small>
+
 
 > ### PNEUMONIA DETECTION (2021)
 
@@ -142,10 +151,10 @@ were based on both spectral features (mel-spectrogram, as shown below) as well a
 - <small> We have made the code for this website public now. Do check it out [here](https://github.com/Anirudh58/cricboard). If you have ideas for better features, visualization ideas etc. please do feel free to issue PRs. We plan to resume work on this very soon! </small>
 
 
-> ### SUBWAY-SURFER (2020)
+<!-- > ### SUBWAY-SURFER (2020)
 
 - <small> This was a fun, little project I worked on during the 2020 lockdown, aimed to keep people fit at home. Idea is to use standard Computer Vision techniques to capture body motions and use that as inputs to any game. I chose subway surfer due to it's simplicity and popularity. I was surprised how little code is required to build such interesting applications these days. </small>
-- <small> Hope to find inspiration/time to work on some major improvements (scaling to any user environment, reducing latency, maybe even building a simple mobile app?). You can check out the project [here](https://github.com/Anirudh58/subway_surfer) and maybe even issue PRs or send suggestions. </small> 
+- <small> Hope to find inspiration/time to work on some major improvements (scaling to any user environment, reducing latency, maybe even building a simple mobile app?). You can check out the project [here](https://github.com/Anirudh58/subway_surfer) and maybe even issue PRs or send suggestions. </small>  -->
 
 
 > ### ANOMALOUS CONTENT FROM SURVEILLANCE VIDEOS (2019)
