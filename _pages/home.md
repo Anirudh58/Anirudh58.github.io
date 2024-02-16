@@ -15,7 +15,7 @@ excerpt: ""
 
 ## About
 
-<small> I am currently a software engineer at Instagram, building and scaling product experiences around IG stories. I earned my MS in Computer Science, with a specialization in ML, from [Georgia Tech](https://www.gatech.edu/) in 2023, where I also held teaching assistant positions for the ML and DBMS courses. With over 4 years of experience in engineering roles, I have built strong foundations in ML, Cloud, and Systems work. Before that, I graduated from [NIT-Trichy](https://www.nitt.edu/) in 2018, where I did my B.Tech. in Computer Science. Please head over to my [resume](/resume) to know more about my experiences, and feel free to ping me directly through email/linkedin to get in touch!
+<small> I am a Software Engineer at Instagram, building and scaling product experiences around IG stories. I earned my MS in Computer Science, with a specialization in ML, from [Georgia Tech](https://www.gatech.edu/) in 2023, where I also held teaching assistant positions for the ML and DBMS courses. With over 4 years of experience in engineering roles, I have built strong foundations in ML, Cloud, and Systems work. Before that, I graduated from [NIT-Trichy](https://www.nitt.edu/) in 2018, where I did my B.Tech. in Computer Science. Please head over to my [resume](/resume) to know more about my experiences, and feel free to ping me directly through email/linkedin to get in touch!
 </small>
 
 
