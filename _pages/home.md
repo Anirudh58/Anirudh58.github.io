@@ -3,7 +3,7 @@ layout: single
 read_time: false
 comments: false
 share: false
-title: "<br><br><br><br><br>Hi! "
+title: "Hi! "
 permalink: /
 header:
   overlay_color: "#000"
@@ -15,7 +15,7 @@ excerpt: ""
 
 ## About
 
-<small> I am a Software Engineer at Instagram, building and scaling product experiences around IG stories. I earned my MS in Computer Science, with a specialization in ML, from [Georgia Tech](https://www.gatech.edu/) in 2023, where I also held teaching assistant positions for the ML and DBMS courses. With over 4 years of experience in engineering roles, I have built strong foundations in ML, Cloud, and Systems work. Before that, I graduated from [NIT-Trichy](https://www.nitt.edu/) in 2018, where I did my B.Tech. in Computer Science. Please head over to my [resume](/resume) to know more about my experiences, and feel free to ping me directly through email/linkedin to get in touch!
+<small> I’m a Software Engineer at Instagram, focused on building product experiences. I hold an MS in Computer Science, specializing in Machine Learning, from Georgia Tech (2023), where I also served as a teaching assistant for courses in ML and DBMS. With over 4 years of engineering experience, I’ve developed a solid foundation in Machine Learning, Cloud, and Systems engineering. Prior to that, I earned my B.Tech. in Computer Science from NIT-Trichy in 2018. Feel free to reach out via email or LinkedIn!
 </small>
 
 
