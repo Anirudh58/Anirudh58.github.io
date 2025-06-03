@@ -13,28 +13,23 @@ excerpt: ""
 
 ---
 
-## About
+### About
 
-<small> I’m a Software Engineer at Instagram, focused on building product experiences. I hold an MS in Computer Science, specializing in Machine Learning, from Georgia Tech (2023), where I also served as a teaching assistant for courses in ML and DBMS. With over 4 years of engineering experience, I’ve developed a solid foundation in Machine Learning, Cloud, and Systems engineering. Prior to that, I earned my B.Tech. in Computer Science from NIT-Trichy in 2018. Feel free to reach out via email or LinkedIn!
-</small>
+I'm currently a **Software Engineer** at [Instagram](https://instagram.com), working on the Instagram Business Experiences team. I focus on building scalable, user-centered product experiences.
 
+### Education
+- **M.S. in Computer Science** (2023) - [Georgia Tech](https://www.gatech.edu)
+  - Specialization in Machine Learning
+  - Teaching Assistant for ML and Database courses
+- **B.Tech. in Computer Science** (2018) - [NIT Trichy](https://www.nitt.edu)
 
-<!-- <small> This summer I interned at [Meta](https://meta.com) in the Creation ML team, where I had the opportunity to work end-to-end on ML pipelines, building and training large scale models for Music Recommendation used across Facebook for Stories and Reels. Prior to starting my Masters, I have worked in Machine Learning roles at [Iron Mountain Insight](https://www.ironmountain.com/services/content-service-platform) and [Samsung Research Institute Bangalore](https://research.samsung.com/sri-b). I graduated from [NIT-Trichy](https://www.nitt.edu/home/academics/departments/cse/) in 2018, where I received my B.Tech. in Computer Science and Engineering. Please head over to my [resume](/resume) or [work](/work) to know more about my experiences. </small> -->
-<!-- 
-## Interests
+### Experience
+I bring over 5 years of engineering experience across product development, systems design, applied machine learning, with a strong foundation in backend and cloud technologies.
 
-<small> I love Mathematics and solving challenging problem statements or puzzles. I always hope and strive to write clean, well-documented code. In the past 4 years of my academic and industry experience, I have worked with a good mix of Machine Learning, Systems and Cloud. In the next few years of my career, I want to explore and learn more along similar domains, building solutions that bridge research and industry.  </small>
-
-<small> Work apart, I passionately follow and play Football/Cricket. I try to practice yoga regularly and truly believe being active and fit is essential for a well-functioning mind. </small> -->
-
+### Connect
+Always happy to chat, feel free to reach out via email or LinkedIn!
 
 <div id='featured'></div>
 
 
 ---
-
-<!-- Currently, I'm working with Athelas, where I combine software and healthcare to create smarter, more efficient tools that enhance patient care.
-
-I earned my MS in Computer Science from Georgia Tech in 2023, with a focus on Machine Learning (ML). During that time, I also taught ML and DBMS courses. With over 4 years of experience in ML Engineering roles at companies like Meta, Iron Mountain Insight, and Samsung Research Institute Bangalore, I've built a strong foundation in ML, Cloud, and Systems work. My educational journey began with a B.Tech. in Computer Science and Engineering from NIT-Trichy in 2018.
-
-Want to know more about me? Check out my resume or work, and don't hesitate to reach out directly if you'd like to chat! -->
