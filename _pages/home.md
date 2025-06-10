@@ -25,8 +25,8 @@ I'm a backend **Software Engineer** at [Instagram](https://instagram.com){:targe
 ### Experience
 I have 5+ years of experience across product development, backend systems, applied machine learning, and cloud infrastructure. Here is my [resume](/resume).
 
-### Side Projects
-I am also building [opensports.ai](https://opensports.ai){:target="_blank"}, a web app that lets users explore sports stats using natural language powered by a fine-tuned LLM-to-SQL engine.
+<!-- ### Side Projects
+I am also building [opensports.ai](https://opensports.ai){:target="_blank"}, a web app that lets users explore sports stats using natural language powered by a fine-tuned LLM-to-SQL engine. -->
 
 ### Connect
 Always happy to chat — feel free to reach out via [email](mailto:anipeas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/anirudh-prabakaran/){:target="_blank"}!
